@@ -1,0 +1,65 @@
+Q1
+Step 1:Open browzer of any kind you like eg chrome, firefox, safari etc
+ 
+Step 2:open extension bar of the browzer
+
+Step 3:select Metamask extension
+
+Step 4:install Meatmask extension
+
+Step 5:In home page select get started
+
+Step 6: agree to all conditions
+
+Step 7: select Create wallet 
+
+Step 8: Create a Password for your wallet
+
+Step 9: view the video to unserstand further step
+
+Step 10:view your secert words as they will be key to change password if you forget your old password
+
+Step 11:Copy the words and save it for further use and do not share it with anybody
+
+Step 12: assemble the words in order they are projected before
+
+and the wallet is created
+
+
+Q2
+
+Step 1:Go to the top right and select Ethereum mainnet a drop down lis will open
+
+Step 2:Select show/hide test network it direct to settings
+
+Step 3:Enable Show Test Networks
+
+Step 4:Reopen the top right drop down list 
+
+Step 5:Select show/hide test networks
+
+Step 6:Then Select Goreli test network
+
+and the network is shifted mainnet to goreli test network
+
+
+Q3
+
+Step 1:Copy the address  it is in center under your account name
+
+Step 2: select the buy icon
+
+Step 3: select the Get Ether button
+
+Step 4: Paste your address
+
+Step 5: Tick the I AM NOT A ROBOT box
+
+Step 6: Click the request 0.05 Goeth and the goeth will transfer to your account after some time
+  
+
+
+
+
+
+
